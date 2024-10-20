@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048526094759",
+    "project_id": "mokata3a-d5142",
+    "storage_bucket": "mokata3a-d5142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048526094759:android:8e2017300566abdbeaf682",
+        "android_client_info": {
+          "package_name": "com.mokata3a.mokata3a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKSC7Il9PeXPS2oWY_LpE4THLYoMVxyOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
